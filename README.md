@@ -1,6 +1,5 @@
-# Pig-Dice-Project
-<<<<<<< HEAD
-#### A dice Game for Week4,project, 24.August.2018
+# PET-WEBSITE
+#### Pet website.
 #### By **PHOEBE Karanja
 =======
 #### A Pet-website
