@@ -2,9 +2,9 @@
 #### Pet website.
 #### By **PHOEBE Karanja
 ## Description
-
+it entails features we have used.
 ## Setup/Installation Requirements
-* git clone https://github.com/phoebekaranja/Pet-website.git
+* git clone  https://github.com/phoebekaranja/Pet-website.git
 Cd Pet-website
 atom .
 Open the my-first-webpage.html. using the Web browser.
