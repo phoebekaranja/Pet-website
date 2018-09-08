@@ -1,6 +1,6 @@
 # PET-WEBSITE
 #### Pet website.
-#### By **PHOEBE Karanja
+#### By PHOEBE KARANJA
 ## Description
 it entails features we have used.
 ## Setup/Installation Requirements
