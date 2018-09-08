@@ -1,7 +1,6 @@
 # PET-WEBSITE
 #### Pet website.
 #### By **PHOEBE Karanja
-=======
 #### A Pet-website
 #### By PHOEBE KARANJA
 ## Description
